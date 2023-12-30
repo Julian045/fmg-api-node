@@ -15,7 +15,11 @@
   "author": "xmile90",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.23.0",
-    "cheerio": "^1.0.0-rc.13"
+    "axios": "^1.6.3",
+    "cheerio": "^1.0.0-rc.12"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Julian045/fmg-api-node"
   }
 }
