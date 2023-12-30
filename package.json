@@ -1,12 +1,17 @@
 {
   "name": "fake-mail-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Node.js module to interact with fakemailgenerator.com.",
   "main": "example.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["fake", "mail", "generator", "api"],
+  "keywords": [
+    "fake",
+    "mail",
+    "generator",
+    "api"
+  ],
   "author": "xmile90",
   "license": "MIT",
   "dependencies": {
