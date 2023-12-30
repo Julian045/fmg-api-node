@@ -1,6 +1,7 @@
 {
   "name": "fake-mail-generator",
   "version": "1.0.2",
+  "homepage": "https://github.com/Julian045/fmg-api-node",
   "description": "A Node.js module to interact with fakemailgenerator.com.",
   "main": "example.js",
   "scripts": {
