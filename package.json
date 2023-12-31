@@ -1,6 +1,6 @@
 {
   "name": "fake-mail-generator",
-  "version": "1.0.4",
+  "version": "1.0.0",
   "description": "A Node.js module to interact with fakemailgenerator.com.",
   "main": "example.js",
   "scripts": {
