@@ -19,7 +19,7 @@ npm install fake-mail-generator
 ```
 
 ```javascript
-const FMG = require('fake-mail-generator-node');
+const FMG = require('fake-mail-generator');
 
 // Create an instance of FMG
 const fmgInstance = new FMG({ name: 'your_random_mail_name', refreshInterval: 5000 });
