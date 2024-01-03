@@ -15,7 +15,7 @@ Simplify the generation of random emails, retrieval of inbox details, and monito
 Install the module via npm:
 
 ```bash
-npm install fake-mail-generator-node
+npm install fake-mail-generator
 ```
 
 ```javascript
